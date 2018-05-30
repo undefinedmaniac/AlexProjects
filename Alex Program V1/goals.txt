@@ -1,0 +1,24 @@
+Alex Program V1
+
+Step 1: program asks for input
+Step 2: if the input matches one of the predetermined values,
+the program will print a predefined response
+
+All inputs case-insensitive
+
+List of inputs and responses:
+hi - Hello!
+hello - same as hi
+you suck - ur mum gay
+bye - Goodbye!
+echo - echo
+marco - polo
+
+Step 3: if the input is not recognized, the message
+"I don't understand that" will be printed
+Step 4: loop and continue accepting input until "exit" is typed
+
+Useful Notes:
+"\n" - escape character meaning newline
+"def" - creates a function - Ex. "def process_message(message):"
+creates a new function called process_message
